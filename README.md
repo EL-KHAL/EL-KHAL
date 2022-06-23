@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center"> Hi there 👋 </h1>
+<p align="center"> ELKHAL , Freelancer ,T-shaped Designer & Web Developer. Passionate About helping Algerian youth to learn how to code and design .
+At past i work for tv channel as social media manager .
+Currently working as full time digital creator (BENHAROUN TV) . </p>
+<img align="right" src="Elkhal.jpg" height="300" width="300">
+<h3 align="center"> Language & Skills </h3>
 
-<!--
-**EL-KHAL/EL-KHAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- JavaScipt
+- PHP 
+- Web Development
+- App Development
+- Web Design
+- Ux Ui Design
 
-Here are some ideas to get you started:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EL-KHAL&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
