@@ -4,13 +4,13 @@ At past i worked as junior web devloper and for tv channel as social media manag
 <img align="right" src="Elkhal.jpg" height="300" width="300">
 <h3 align="center"> Language & Skills </h3>
 
-- JavaScipt (react - vue)
+- JavaScript (React - Vue - Svelte - TypeScript)
 - PHP (laravel)
 - Web Development
 - Web Design
 - Ux Ui Design
 - Photoshop
-- Premiere pro ,After Effects 
+- Premiere pro, After Effects 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EL-KHAL&theme=radical)
 
