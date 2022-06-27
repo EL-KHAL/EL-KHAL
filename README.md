@@ -13,5 +13,6 @@ At past i worked as junior web devloper and for tv channel as social media manag
 - Premiere pro, After Effects 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EL-KHAL&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EL-KHAL&layout=compact&langs_count=7&theme=tokyonight)
 
 
