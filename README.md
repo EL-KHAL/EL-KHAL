@@ -14,6 +14,6 @@ Currently working as full- time digital creator (BENHAROUN TV)
 - Photoshop
 - Premiere pro, After Effects 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EL-KHAL&layout=compact&langs_count=7&theme=tokyonight align="right" )
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EL-KHAL&layout=compact&langs_count=7&theme=tokyonight)
 
 
