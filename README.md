@@ -3,7 +3,7 @@
 In the past i worked for tv channel as social media manager .
 Currently working as full- time digital creator (BENHAROUN TV) 
  </p>
-<img align="right" src="Elkhal.jpg" height="300" width="300">
+
 <h3 align="center"> Language & Skills </h3>
 
 - JavaScript (React - Vue - Svelte - TypeScript)
