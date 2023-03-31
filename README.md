@@ -1,7 +1,5 @@
 <h1 align="center"> Hi there 👋 </h1>
-<p align="center"> Majid ELKHAL , Freelancer ,T-shaped Designer & Web Developer. Passionate about helping Algerian youth to learn how to code and design .
-In the past i worked for tv channel as social media manager .
-Currently working as full- time digital creator (BENHAROUN TV) 
+<p align="center"> ELKHAL , versatile freelancer T-shaped Designer & web devloper. I have a strong desire to empower Algerian youth learn how to code and design. Currently, i'm working as a full-time motion graphic designer for an audiovisual company while also serving as a digital creator for BENHAROUN TV on various social media platforms.
  </p>
 
 <h3 align="center"> Language & Skills </h3>
